@@ -1,4 +1,4 @@
-# 🤖 AI Agent for Data Cleaning and Preprocessing
+# 🤖 An Automated AI-Powered Data Cleaning and Preprocessing System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10">
@@ -437,8 +437,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [FastAPI](https://fastapi.tiangolo.com/) for the amazing web framework
 - [Streamlit](https://streamlit.io/) for the beautiful UI components
 
----
-
-<p align="center">
-  Made with ❤️ for the Data Science Community
-</p>  
