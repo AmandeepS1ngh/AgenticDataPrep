@@ -375,13 +375,18 @@ curl -X POST "http://localhost:8000/clean-db/" \
 ## 🖼️ Screenshots
 
 ### Data Source Selection
+
 The application supports three data input methods:
 - 📁 Upload CSV/Excel files
 - 🗄️ Query databases directly
 - 🌐 Fetch from external APIs
+  
+<img width="1378" height="684" alt="brave_screenshot_localhost (5)" src="https://github.com/user-attachments/assets/bc2d1027-72e2-4773-945c-2fc34537413c" />
 
 ### Cleaned Data Output
 View the cleaned data in a beautiful, interactive table format with the ability to download the results.
+
+<img width="1378" height="684" alt="brave_screenshot_localhost (5)" src="https://github.com/user-attachments/assets/d0004bb9-3df3-41ba-9fec-2e6183fdd810" />
 
 ---
 
@@ -424,13 +429,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
