@@ -145,8 +145,8 @@ This project is fully tested and optimized for **Python 3.10**. Here's the compa
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Agentic-Data-Prep.git
-cd "Agentic Data Prep"
+git clone https://github.com/yourusername/AgenticDataPrep.git
+cd "AgenticDataPrep"
 ```
 
 #### Step 2: Create Virtual Environment with Python 3.10
