@@ -1,0 +1,11 @@
+OrderID,CustomerID,Product_Name,Quantity,Price_USD,Order_Date,Shipping_Address,Contact_Email
+1001,CUST001,Laptop Pro,1,1200.00,2024-09-15,"123 Main St, Anytown",jane.doe@email.com
+1002,CUST002,Keyboard Mechanical,2,$75,09/16/2024,"456 Oak Ave, Anytown",john.smith@email.com
+1003,CUST003,Mouse Wireless,1,25,2024-09-17,789 Pine Ln.,SARAH.CONNOR@EMAIL.COM
+1004,CUST004,Laptop Pro,1,12000,2024-09-18,"123 Main St, Anytown",jane.doe@email.com
+1005,CUST005,Monitor 4K,1,350.50,2024/09/19,"101 River Rd, Big City",N/A
+1006,CUST006,Webcam HD,3,49.99,2024-09-20,202 Lake View,mike_tyson_email
+1007,CUST001,Laptop Pro,1,NaN,2024-09-15,"123 Main St, Anytown",jane.doe@email.com
+1008,CUST007,Mouse Wireless,1,25.0,2024-10-01,"303 Hilltop Dr, Smallville",l.skywalker@mail.com
+-1,CUST008,UNKNOWN,0,10.00,2024-10-02,404 Error St,test@test.com
+1010,CUST009,External Drive 1TB,1,$99.5,Missing,505 Fifth Ave,a.gordon@email.co.uk

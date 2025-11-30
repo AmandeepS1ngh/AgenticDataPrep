@@ -1,0 +1,7 @@
+ID,Name,Age,Department,Salary,Join_Date
+1,Alice,29.0,Data Science,85000.0,2021-05-10
+2,Bob,,Engineering,95000.0,2020-08-21
+3,Charlie,35.0,HR,62000.0,2019-11-15
+4,Diana,28.0,Data Science,,2022-01-12
+5,Eve,40.0,Engineering,105000.0,2018-03-03
+6,Frank,30.0,Finance,72000.0,
